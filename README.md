@@ -1,2 +1,2 @@
-# free cobest
+# free codbest
 เเจกโค๊ดบอทดิสคอส
